@@ -40,7 +40,7 @@ local player = Players.LocalPlayer
 local Config = {
     ToggleKey = Enum.KeyCode.G,
     UIToggleKey = Enum.KeyCode.M,
-    TeleportHeight = -200000,
+    TeleportHeight = 200000,
     Transparency = 0.7,
 
     PrimaryColor = Color3.fromRGB(255, 128, 0),
