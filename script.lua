@@ -1,4 +1,4 @@
-
+--receba
 --[[
     NUCLEARBOBO 5.0
     Sem Key System
